@@ -1,0 +1,1 @@
+const words='price script porter pony blade feather swear angel examination impress'.split(' ');
